@@ -31,6 +31,7 @@
 		4913B38C22034ED8009E8A10 /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
 		4913B38E220368A7009E8A10 /* WeatherDataModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherDataModel.swift; sourceTree = "<group>"; };
 		4913B3902203739A009E8A10 /* ChangeCityViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChangeCityViewController.swift; sourceTree = "<group>"; };
+		4913B392220382B8009E8A10 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		97BD4200B9513D1AE0EA4E72 /* Pods-OpenWeatherAPIsDemo.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-OpenWeatherAPIsDemo.release.xcconfig"; path = "Pods/Target Support Files/Pods-OpenWeatherAPIsDemo/Pods-OpenWeatherAPIsDemo.release.xcconfig"; sourceTree = "<group>"; };
 		C2F65CD8825B63A830C649E4 /* Pods_OpenWeatherAPIsDemo.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_OpenWeatherAPIsDemo.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		C65B8F7B023A0BDCD20D2E68 /* Pods-OpenWeatherAPIsDemo.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-OpenWeatherAPIsDemo.debug.xcconfig"; path = "Pods/Target Support Files/Pods-OpenWeatherAPIsDemo/Pods-OpenWeatherAPIsDemo.debug.xcconfig"; sourceTree = "<group>"; };
@@ -75,6 +76,7 @@
 				4913B38922034E1C009E8A10 /* Views */,
 				4913B38822034E13009E8A10 /* Models */,
 				4913B38B22034E42009E8A10 /* Supporting Files */,
+				4913B392220382B8009E8A10 /* README.md */,
 			);
 			path = OpenWeatherAPIsDemo;
 			sourceTree = "<group>";

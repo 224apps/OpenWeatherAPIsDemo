@@ -12,7 +12,7 @@ import Foundation
 struct Constants {
     
     static var WEATHER_URL = "http://api.openweathermap.org/data/2.5/weather?"
-     static var APP_ID = "20ef514aa279a64f32f7fad2f1e517e9"
+     static var APP_ID = ""
     static var ChangeCitySegue = "changecityname"
     
 }
